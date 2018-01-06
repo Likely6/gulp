@@ -9,5 +9,5 @@
 ### gulp使用
   1.未全局安装gulp需要 npm install --global gulp  
   2.无配置好的package.json需要 npm init  
-  3.安装开发依赖 npm install  
-  4.创建gulpfile.js 配置文件  
+  3.安装开发依赖 npm install  
+  4.创建gulpfile.js 配置文件
