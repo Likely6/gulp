@@ -1,6 +1,9 @@
 # gulp
 
-1.git clone
+git clone git@github.com:Likely6/gulp.git
+npm install
+git dev
+git build
 
 ### 该配置基本功能  
   1.css添加前缀并压缩  
